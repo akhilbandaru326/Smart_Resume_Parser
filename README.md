@@ -14,7 +14,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/smart-resume-parser.git
+git clone https://github.com/akhilbandaru326/smart-resume-parser.git
 cd smart-resume-parser
 Create and activate the virtual environment:
 
